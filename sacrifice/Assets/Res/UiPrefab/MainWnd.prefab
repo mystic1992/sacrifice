@@ -524,7 +524,7 @@ GameObject:
   - component: {fileID: 5778741683425969874}
   m_Layer: 5
   m_HasEditorInfo: 1
-  m_Name: Btn1
+  m_Name: VRBtn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5553,7 +5553,7 @@ GameObject:
   - component: {fileID: 3075916878633992908}
   m_Layer: 5
   m_HasEditorInfo: 1
-  m_Name: Btn1 (1)
+  m_Name: OfflineBookingBtn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17126,6 +17126,15 @@ MonoBehaviour:
   subWnd3: {fileID: 7365408759916321902}
   subWnd4: {fileID: 2478092554546140749}
   desWndBtn: {fileID: 8952086429646901010}
+  VRBtn: {fileID: 5778741683425969874}
+  bookingBtn: {fileID: 3075916878633992908}
+  consultBtn: {fileID: 3616215694085574223}
+  aboutAsBtn: {fileID: 7324780663738047641}
+  onlineSacrificeBtn: {fileID: 0}
+  ecologyGraveBtn: {fileID: 0}
+  cloudPhotoBtn: {fileID: 0}
+  memoryBtn: {fileID: 0}
+  TDImageBtn: {fileID: 0}
 --- !u!1 &9105283718310643108
 GameObject:
   m_ObjectHideFlags: 0

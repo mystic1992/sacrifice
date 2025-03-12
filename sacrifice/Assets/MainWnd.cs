@@ -46,7 +46,7 @@ public class MainWnd : MonoBehaviour
             UiMgr.instance.ShowWnd("consult");
         });
         aboutAsBtn.onClick.AddListener(() => {
-            UiMgr.instance.ShowWnd("aboutAs");
+            UiMgr.instance.ShowWnd("des");
         });
         onlineSacrificeBtn.onClick.AddListener(() => {
             UiMgr.instance.ShowWnd("onlineSacrifice");
